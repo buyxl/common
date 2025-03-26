@@ -1,4 +1,4 @@
-module common
+module github.com/BUYXL/common
 
 go 1.23.4
 
